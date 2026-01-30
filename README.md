@@ -102,7 +102,7 @@ This repository contains my semester project for CIST 2500. The project applies 
 
 ### Development Environment
 - Jupyter Notebook
-- Python 3.x
+- Python
 
 ## Project Reflection
 
