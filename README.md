@@ -6,7 +6,7 @@ This repository contains my semester project for CIST 2500. The project applies 
 
 ## View Project
 
-Click on the file Mujica_-_Semester_Project.ipynb
+Click on the file `Mujica_-_Semester_Project.ipynb`
 
 ## Repository Contents
 
