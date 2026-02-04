@@ -1,9 +1,12 @@
 # CIST 2500: Applied Statistics Semester Project
-**Project Option:** Learning How to Use Jupyter Notebook for Statistics
 
 ## Overview
 
 This repository contains my semester project for CIST 2500. The project applies statistical methods learned in the corse to real-world datasets. I used Jupyter Notebook with Python to perform the same statistical analyses that were taught using Excel in class.
+
+## View Project
+
+Click on the file Mujica_-_Semester_Project.ipynb
 
 ## Repository Contents
 
